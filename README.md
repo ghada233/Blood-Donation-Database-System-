@@ -13,22 +13,33 @@ appropriate process.
 --------------------------------------------------------------------------------------------------
 
 ## Entities in this system:
+
 • DONOR
+
 • BLOOD_BANK_ DEPARTMENT
+
 • STAFF
+
 • BLOOD
+
 • BLOOD SAMPLE
+
 • BLOOD PRODUCT
+
 • BLOOD_SAFETY_AND_CONSERVATION_TEAM
+
 • PHLEBOTOMIST
+
 • LAP_TECHNICIAN
+
 • MANAGER
+
 • FAMILY_CONTACT
 
 --------------------------------------------------------------------------------------------------
-** We developed the system based on interviews with specialists in the field, blood
+> We developed the system based on interviews with specialists in the field, blood
 donation centers visits, and we contacted researchers such as phlebotomists. All
-details based on the international approved protocols.**
+details based on the international approved protocols.
 --------------------------------------------------------------------------------------------------
 :card_index_dividers:
 >  EER Model:
@@ -44,29 +55,48 @@ details based on the international approved protocols.**
 
 1. Data manipulation:
 ➢ Insert/update/delete the details of Donor
+
 ➢ Insert/update/delete the details of Staffs overall.
+
 ➢ Insert/update/delete the details of Blood overall.
+
 ➢ Insert/update/delete the details of Blood Sample.
+
 ➢ Insert/update/delete the details of Blood Product.
+
 ➢ Insert/update/delete the details of Blood Bank Department
+
 ➢ Insert/update/delete the details of Family Contact
 
 2. Queries:
+
 ➢ Retrieve Blood unit (Sample or Product) information
+
 ➢ Retrieve Blood unit (Sample or Product) information based on the desired blood group
+
 ➢ Retrieve Doner’s information
+
 ➢ Retrieve Doner’s Family_Contact information
+
 ➢ Retrieve Staff (Blood_Safety_and_Conservation_Team, Phlebotomist, Lab_Technician) information
 -------------------------------------------------------------------------------------------------------
 
 Business rules:
+
 ➢ The minimum weight of donor is 50 kilograms, any donor has weight less than 50 kilograms cannot donate.
+
 ➢ The donor has very good health, excellent and normal case.
+
 ➢ The donor does not have epidemics or contagious diseases.
+
 ➢ Hemoglobin percent should be above 13 g/dL .
+
 ➢ The blood product volume should be in this range (300-500 ml).
+
 ➢ Take blood from the donor without any danger to health.
+
 ➢ The blood center tests, processes, and check the expiration of blood bags before sending it to the hospitals.
+
 ➢ The capacity of blood-bank for bags is predetermined by the facility.
 --------------------------------------------------------------------------------------------------
 ## References: 
@@ -79,6 +109,7 @@ https://www.moh.gov.sa/HealthAwareness/EducationalContent/PublicHealth/Pages/017
 
 --------------------------------------------------------------------------------------------------
 >  A project submitted for Database System course – CS 372
+>  
 
 _Instructor: Dr. Samah Aloufi_
 
