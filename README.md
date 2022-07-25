@@ -79,6 +79,7 @@ details based on the international approved protocols.
 ➢ Retrieve Doner’s Family_Contact information
 
 ➢ Retrieve Staff (Blood_Safety_and_Conservation_Team, Phlebotomist, Lab_Technician) information
+
 -------------------------------------------------------------------------------------------------------
 
 Business rules:
@@ -98,6 +99,7 @@ Business rules:
 ➢ The blood center tests, processes, and check the expiration of blood bags before sending it to the hospitals.
 
 ➢ The capacity of blood-bank for bags is predetermined by the facility.
+
 --------------------------------------------------------------------------------------------------
 ## References: 
 1. Blood transfusion policy and procedures (Oxford University Hospitals, June 2012). 
@@ -108,6 +110,11 @@ https://www.moh.gov.sa/HealthAwareness/EducationalContent/PublicHealth/Pages/017
 
 
 --------------------------------------------------------------------------------------------------
+:information_desk_person:
+:tipping_hand_person:
+This repo contains Ghadah & Sedra & Shoag & lama & asma👍 attempts to solve the project problem
+
+
 >  A project submitted for Database System course – CS 372
 >  
 
