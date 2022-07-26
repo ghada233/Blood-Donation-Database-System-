@@ -1,6 +1,6 @@
 
---CREATE DATABASE BLOOD_DONATION_SYSTEM 
-/*
+CREATE DATABASE BLOOD_DONATION_SYSTEM 
+
 
 CREATE TABLE DONOR( SSN Char(10) NOT NULL PRIMARY KEY,FirstName Varchar(128) NOT NULL
 ,MiddleName Varchar(128) NOT NULL,LastName Varchar(128) NOT NULL,Birth_Date DATE NOT
@@ -217,7 +217,8 @@ insert into ANALYSIS values ('1323547',1876542)
 insert into ANALYSIS values ('1323547',3267907)
 insert into ANALYSIS values ('1323547',6754441)
 insert into ANALYSIS values ('1323547',3267887)
-insert into ANALYSIS values ('1323547',1876577)
+insert into ANALYSIS values ('1323547',1876577)
+
 */
 /*-------main------*/
 SELECT * FROM DONOR
