@@ -10,6 +10,7 @@ antibodies which can potentially cause reactions. On the other hand,
 Blood_Safety_and_Conservation_Team task is to monitor blood storage and promoting safe and
 appropriate process.
 
+:drop_of_blood:
 --------------------------------------------------------------------------------------------------
 
 ## Entities in this system:
@@ -20,7 +21,7 @@ appropriate process.
 
 • STAFF
 
-• BLOOD
+• BLOOD :drop_of_blood:
 
 • BLOOD SAMPLE
 
